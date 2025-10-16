@@ -3,7 +3,7 @@
   "wake_word": "hey pumpki",
   "author": "Nigel Saunders",
   "website": "https://unrealuniverse.au/",
-  "model": "hey_pum_key.tflite",
+  "model": "https://raw.githubusercontent.com/nsaunders36/Wake-Word/refs/heads/main/hey_pum_key.tflite",
   "trained_languages": ["en","nl","fr","de","it","es","sv"],
   "version": 2,
   "micro": {
