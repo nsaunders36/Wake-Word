@@ -1,11 +1,11 @@
 {
   "type": "micro",
-  "wake_word": "hey pumpki",
+  "wake_word": "Hey Pumpki",
   "author": "Nigel Saunders",
   "website": "https://github.com/nsaunders36",
   "model": "https://raw.githubusercontent.com/nsaunders36/Wake-Word/refs/heads/main/hey_pum_key.tflite",
   "trained_languages": ["en"],
-  "version": 2,
+  "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
     "sliding_window_size": 10
