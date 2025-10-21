@@ -3,7 +3,6 @@
   "wake_word": "Hey Pumpki",
   "author": "Nigel Saunders",
   "website": "https://github.com/nsaunders36",
-  "model": "https://raw.githubusercontent.com/nsaunders36/Wake-Word/refs/heads/main/hey_pum_key.tflite",
   "model": "hey_pum_key.tflite",
   "trained_languages": [
     "en"
