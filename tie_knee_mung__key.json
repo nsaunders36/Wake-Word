@@ -1,8 +1,8 @@
 {
   "type": "micro",
-  "wake_word": "tie_knee_mung__key",
-  "author": "Tater Totterson",
-  "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-AppleSilicon",
+  "wake_word": "Tiny Monkey",
+  "author": "Nigel Saunders",
+  "website": "https://github.com/nsaunders36",
   "model": "tie_knee_mung__key.tflite",
   "trained_languages": [
     "en"
